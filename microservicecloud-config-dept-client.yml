@@ -19,7 +19,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver              # mysql驱动包
     url: jdbc:mysql://localhost:3306/cloudDB01              # 数据库名称
     username: root
-    password: gang1127
+    password: 123456
     dbcp2:
       min-idle: 5                                           # 数据库连接池的最小维持连接数
       initial-size: 5                                       # 初始化连接数
@@ -54,7 +54,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver              # mysql驱动包
     url: jdbc:mysql://localhost:3306/cloudDB02              # 数据库名称
     username: root
-    password: gang1127
+    password: 123456
     dbcp2:
       min-idle: 5                                           # 数据库连接池的最小维持连接数
       initial-size: 5                                       # 初始化连接数
